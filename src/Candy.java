@@ -20,6 +20,8 @@ public class Candy implements ISurprise{
 	@Override
 	public void enjoy() {
 		System.out.println("This surprize contains " + this.piecesOfCandy + " pieces of " + this.typeOfCandy + " candy. Enjoy!");
+	
+	
 	}
 	
 }
